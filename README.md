@@ -2,7 +2,11 @@
 My HackPad consists of 9 buttons that I will use as shortcuts in the game developing app Godot!
 
 This was my first time ever using KiCad or anything of the sort, so I was able to learn a lot about how PCBs are made!
+
+Schematic
 ![20251120_213635](https://github.com/user-attachments/assets/81bf0f26-e070-4ac0-9f00-f1cc7e2e0f94)
+
+PCB
 ![20251120_213310](https://github.com/user-attachments/assets/fd1ae5dc-489e-4b5e-bfd4-0ff24aca4679)
 
 
