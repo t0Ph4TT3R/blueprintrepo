@@ -9,10 +9,10 @@ keyboard = KMKKeyboard()
 macros = Macros()
 keyboard.modules.append(macros)
 
-PINS = [board.D3, board.D1]
+PINS = [board.D1, board.D2, board.D3, board.D4, board.D6, board.D8, board.D9, board.D10, board.D11]
 
 keyboard.matrix = KeysScanner(
-  pins = PIN,
+  pins = PINS,
   value_when_pressed = false,
 )
 
@@ -29,7 +29,8 @@ paste = (
 )
 
 keyboard.keymap = [
-  [KC.A, KC.DELETE, KC.MACRO("Hello world!"), KC,Macro(Press(KC.LCMD), Tap(KC.S), Release(KC.LCMD]
+  #[KC.A, KC.DELETE, KC.MACRO("Hello world!"), KC,Macro(Press(KC.LCMD), Tap(KC.S), Release(KC.LCMD]
+  [copy, paste, KC.ENTER,KC.ESC,KC.UP_ARROW,KC.DOWN_ARROW,KC.RIGHT_ARROW,KC.LEFT_ARROW]
 ]
 
 if __name__ == '__main__':
