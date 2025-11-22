@@ -4,6 +4,8 @@ My HackPad consists of 9 buttons that I will use as shortcuts in the game develo
 This was my first time ever using KiCad or anything of the sort, so I was able to learn a lot about how PCBs are made!
 
 Schematic
+<img width="390" height="444" alt="2025-11-22-043713_390x444_scrot" src="https://github.com/user-attachments/assets/9cc27033-7d9e-4d99-a10d-612d91c2fc0f" />
+
 ![20251120_213635](https://github.com/user-attachments/assets/81bf0f26-e070-4ac0-9f00-f1cc7e2e0f94)
 
 PCB
