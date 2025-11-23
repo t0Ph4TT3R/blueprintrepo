@@ -7,9 +7,11 @@ Schematic
 
 <img width="313" height="426" alt="1stSchematic" src="https://github.com/user-attachments/assets/6827118c-f0cb-4927-8ba8-4dc19212491e" />
 
+
 PCB
 
 <img width="425" height="536" alt="1stPCB" src="https://github.com/user-attachments/assets/d5b8eb14-6fcb-4746-93e0-9c07394d21a3" />
+
 
 I used OnShape as my software for cadding the case for the PCB, and I have had prior experience to cadding before this, however, this was my first time importing DXF files into CAD software.
 <img width="813" height="787" alt="Screenshot 2025-11-20 210059" src="https://github.com/user-attachments/assets/3e6826a9-b97a-4242-a59c-2a1b1b56c025" />
