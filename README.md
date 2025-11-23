@@ -4,9 +4,11 @@ My HackPad consists of 9 buttons that I will use as shortcuts in the game develo
 This was my first time ever using KiCad or anything of the sort, so I was able to learn a lot about how PCBs are made!
 
 Schematic
+
 <img width="313" height="426" alt="1stSchematic" src="https://github.com/user-attachments/assets/6827118c-f0cb-4927-8ba8-4dc19212491e" />
 
 PCB
+
 <img width="425" height="536" alt="1stPCB" src="https://github.com/user-attachments/assets/d5b8eb14-6fcb-4746-93e0-9c07394d21a3" />
 
 I used OnShape as my software for cadding the case for the PCB, and I have had prior experience to cadding before this, however, this was my first time importing DXF files into CAD software.
